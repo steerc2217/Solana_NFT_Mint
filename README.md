@@ -1,8 +1,8 @@
 # candymachine-v2-boiler-mint-site-noFLP
 
-![The Boiler Plate](https://github.com/tonyboylehub/candymachine-v2-boiler-mint-site-noFLP/blob/228e97fc6935153fefcf4f3033b0686f852a9e44/doc-resources/The-Boiler-Plate.png)
+![The Boiler Plate](https://github.com/steerc2217/Treehouse/doc-resources/The-Boiler-Plate.png)
 
-This is a stripped out Metaplex FLP site from the Metaplex repo at https://github.com/metaplex-foundation/metaplex
+This is a stripped out Metaplex FLP site from the Metaplex repo at https://github.com/steerc2217/Treehouse
 This was built upon version v1.1.0
 
 Donations can be made at tonyboyle.sol if you are feeling generous!
@@ -12,7 +12,7 @@ Donations can be made at tonyboyle.sol if you are feeling generous!
 
 1. Clone the repo from the url below.
 
-	```git clone https://github.com/tonyboylehub/candymachine-v2-boiler-mint-site-noFLP.git```
+	```git clone https://github.com/steerc/Treehouse.git```
 
 2. Open a terminal in the root of the cloned repo and run yarn install to install all the required dependencies
 
@@ -119,5 +119,8 @@ For more advaned users head over to app.css
 
 - Restyled The Mint UI box.
 ---
-
+My Profile:
+Gmail : SkySteerC@gmail.com
+Skype : Hermann Anders
+Telegram : dev
 

@@ -1,4 +1,4 @@
-# candymachine-v2-boiler-mint-site-noFLP
+# Solana_NFT_MintSite
 
 ![The Boiler Plate](https://github.com/steerc2217/Treehouse/blob/main/doc-resources/The-Boiler-Plate.png)
 
